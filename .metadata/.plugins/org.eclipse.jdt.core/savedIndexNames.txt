@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+C:\Users\ganes\OneDrive\Desktop\core java 2026\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+527597238.index
+1372677264.index
